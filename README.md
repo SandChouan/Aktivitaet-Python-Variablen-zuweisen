@@ -1,0 +1,1 @@
+# Aktivitaet-Python-Variablen-zuweisen
